@@ -1,0 +1,16 @@
+
+
+npm init -y
+
+npm i express
+
+npm i handlebars
+npm install hbs
+
+npm i dotenv
+
+git config --global user.name "Erick Harold"
+git config --global user.email "seiya_erick-18@hotmail.com"
+
+git config –list
+
